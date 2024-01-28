@@ -1,2 +1,4 @@
 # dsci310-assignment-two
-Individual Assignment 2 for DSCI 310
+Learning about Version Control
+
+Fiona Chang
