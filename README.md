@@ -2,3 +2,5 @@
 Learning about Version Control
 
 Fiona Chang
+
+Solving mercge conflicts is soooooo hard!
