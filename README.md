@@ -2,3 +2,5 @@
 Learning about Version Control
 
 Fiona Chang
+
+Solving merge conflicts is easy!
